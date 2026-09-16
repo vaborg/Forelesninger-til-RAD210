@@ -1,5 +1,5 @@
-# Forelesninger-til-RAD210
-# MRI-emnet RAD210
+# Forelesninger til RAD210
+# 
 
 Interaktive Quarto-forelesninger
 Ivan I. Maximov
